@@ -8,7 +8,7 @@ class IdCart extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.green[100],
       appBar: AppBar(
-        title: const Text("Karta ID Użytkownika"),
+        title: const Text("ID Użytkownika"),
         centerTitle: true,
         backgroundColor: Colors.green[700],
         elevation: 0.0,
